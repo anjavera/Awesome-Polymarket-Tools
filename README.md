@@ -58,6 +58,7 @@ Polymarket is a decentralized information markets platform where users can trade
 - [loki.red Polymarket Stats](https://www.loki.red/polymarket/) - Comprehensive Polymarket statistics and market insights
 - [Dune Analytics - Polymarket Dashboards](https://dune.com/browse/dashboards?q=polymarket) - Multiple community-created dashboards for volume tracking, open interest, and user analytics
 - [Bitquery Polymarket API](https://bitquery.io/) - Blockchain data and on-chain analytics for Polymarket smart contracts
+- [BTC-15 Widget Tracker](https://github.com/anjavera/unofficial-bitcoin-up-or-down-15-minute-widget-tracker) - Terminal widget for Polymarket US's "BTC Up or Down: 15 min" markets, with a live countdown, color-coded 24-hour history, and real-time odds, built on the official `polymarket-us` Python SDK
 
 ## Trading Bots & Automation
 
